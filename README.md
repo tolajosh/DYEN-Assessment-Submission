@@ -21,5 +21,5 @@
 ### 4. Sequencing animations [Assessment](https://tolajosh.github.io/JAVASCRIPT/animations/)
 
 
-### Name: OLUTOLA OLANIYAN
-## olutolajoshua17@gmail.com
+## Name: OLUTOLA OLANIYAN
+### olutolajoshua17@gmail.com
